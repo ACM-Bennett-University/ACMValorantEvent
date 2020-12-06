@@ -2,4 +2,4 @@
 
 ## Made by ACM Technical team for Valorant Tournament
 
-### [Link](https://pranjal36.github.io/ACM-Valorant-Event-Website/) To Website...........!!🔥
+### [Link](https://acm-bennett-university.github.io/ACMValorantEvent/) To Website...........!!🔥
